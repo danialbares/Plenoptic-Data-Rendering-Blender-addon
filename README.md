@@ -3,7 +3,7 @@ This repository contains a Blender add-on to generate and render Plenoptic data 
 
 1. Light Field
 
-- Rendering with depth and disparity maps
+- View Rendering with depth and disparity maps (obtained from the addon https://github.com/tbaust/lightfield-blender-addon)
 - Focus stack generation
 - Depth and disparity map format conversion (PFM & PNG)
 - Lenslet image generation
