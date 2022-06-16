@@ -24,9 +24,9 @@ In order to successfully install this add-on you must follow the next steps:
 
 1. Download the ZIP file from this repository containing the code
 2. Unzip the file (if not already) and create an empty folder inside it with the name "lib"
-3. ZIP the file again and install it in Blender through File -> Preferences -> Add-ons -> Install -> Select the corresponding ZIP
-4. Go to File -> Preferences -> File Paths -> Temporary files and include a temporary folder (is not done previously)
-5. Go back to File -> Preferences -> Add-ons, enable the add-on with the checkbox and open the dropdown menu
+3. ZIP the file again and install it in Blender through Edit -> Preferences -> Add-ons -> Install -> Select the corresponding ZIP
+4. Go to Edit -> Preferences -> File Paths -> Temporary files and include a temporary folder (is not done previously)
+5. Go back to Edit -> Preferences -> Add-ons, enable the add-on with the checkbox and open the dropdown menu
 6. Click on "Install missing dependencies" and wait momentarily
 
 The add-on should be ready to use!
