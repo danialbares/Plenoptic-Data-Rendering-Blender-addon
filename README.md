@@ -19,6 +19,17 @@ This repository contains a Blender add-on to generate and render Plenoptic data 
 - Automatic Python dependencies installation
 
 
+## Installation
+In order to successfully install this add-on you must follow the next steps:
+
+1. Download the ZIP file from this repository containing the code
+2. Unzip the file (if not already) and create an empty folder inside it with the name "lib"
+3. ZIP the file again and install it in Blender through File -> Preferences -> Add-ons -> Install -> Select the corresponding ZIP
+4. Enable the add-on with the checkbox and open the dropdown menu
+5. Click on "Install missing dependencies"
+
+The add-on should be ready to use!
+
 
 ## License
 This work, "Plenoptic Data Rendering", is a derivative of "4D Light Field Benchmark" by Katrin Honauer & Ole Johannsen used under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (www.creativecommons.org/licenses/by-nc-sa/4.0/) and "Stanford PLY Format" by Bruce Merry & Campbell Barton used under GNU General Public License version 3.0 (GPLv3)(www.gnu.org/licenses/gpl-3.0.html) / Desaturated from original.
